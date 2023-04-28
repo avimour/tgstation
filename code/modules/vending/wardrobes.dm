@@ -186,6 +186,10 @@
 		/obj/item/clothing/suit/hooded/techpriest = 2,
 		/obj/item/clothing/under/costume/mech_suit = 2,
 		/obj/item/organ/internal/tongue/robot = 2,
+		/obj/item/sticker/adeptus/purity = 10,
+		/obj/item/sticker/adeptus/fortitude = 10,
+		/obj/item/sticker/adeptus/guidance = 10,
+		/obj/item/sticker/adeptus/generic = 10,
 	)
 	refill_canister = /obj/item/vending_refill/wardrobe/robo_wardrobe
 	extra_price = PAYCHECK_COMMAND * 1.2
@@ -446,6 +450,9 @@
 		/obj/item/clothing/head/chaplain/medievaljewhat = 3,
 		/obj/item/clothing/suit/chaplainsuit/clownpriest = 1,
 		/obj/item/clothing/head/chaplain/clownmitre = 1,
+		/obj/item/sticker/upcross = 10,
+		/obj/item/sticker/dwncross = 10,
+		/obj/item/sticker/effigy = 10,
 	)
 	premium = list(
 		/obj/item/clothing/suit/chaplainsuit/bishoprobe = 1,

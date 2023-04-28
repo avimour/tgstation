@@ -129,3 +129,58 @@
 /obj/item/sticker/syndicate/trap
 	name = "bear trap sticker"
 	icon_state = "trap"
+
+/obj/item/sticker/adeptus/purity
+	name = "Seal of Purity"
+	icon_state = "adeptussealbase"
+	desc = "A strange seal with various texts written on it."
+	contraband = TRUE
+
+/obj/item/sticker/adeptus/fortitude
+	name = "Seal of Fortitude"
+	icon_state = "adeptussealfort"
+	desc = "A strange seal with various texts written on it."
+	contraband = TRUE
+
+/obj/item/sticker/adeptus/guidance
+	name = "Seal of Guidance"
+	icon_state = "sealblank3"
+	desc = "A strange seal with various texts written on it."
+	contraband = TRUE
+
+/obj/item/sticker/adeptus/generic
+	name = "Adeptus Mechanicus seal"
+	icon_state = "adeptussealbase"
+	icon_states = list("sealblank1","sealblank2","sealblank3")
+	desc = "A strange seal with various texts written on it."
+	contraband = TRUE
+
+/obj/item/sticker/upcross
+	name = "wooden cross sticker"
+	icon_state = "woodcrossup"
+	desc = "A wooden cross.."
+	contraband = TRUE
+
+/obj/item/sticker/dwncross
+	name = "turned wooden cross sticker"
+	icon_state = "woodcrossdn"
+	desc = "An upside-down wooden cross.."
+	contraband = TRUE
+
+/obj/item/sticker/docs
+	name = "documents sticker"
+	icon_state = "papertape2"
+	icon_states = list("papertape2","papertape3")
+	desc = "Upon closer inspection... they are fake.."
+
+/obj/item/sticker/paper
+	name = "paper sticker"
+	icon_state = "papertape"
+	icon_states = list("papertape","scraptape")
+	desc = "Upon closer inspection... the paper appears to be a cheap sticker.."
+
+/obj/item/sticker/effigy
+	name = "wooden effigy sticker"
+	icon_state = "effigy1"
+	icon_states = list("effigy1","effigy2")
+	desc = "Alas, it is but a sticker.. I doubt it holds any power within.. right..?"
